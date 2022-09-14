@@ -4,4 +4,4 @@
 
 * Description: Teck-Blog
 
-*Deployed Link: https://glacial-atoll-66298.herokuapp.com/
+*Deployed Link: https://module14-challenge.herokuapp.com/
